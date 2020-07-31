@@ -40,7 +40,7 @@ test:
 about:
   home: http://punx.readthedocs.io
   license: CC-BY-4.0
-  license_file: src/punx/LICENSE.txt
+  license_file: src/{{ name }}/LICENSE.txt
   summary: Python Utilities for NeXus
   dev_url: https://github.com/prjemian/punx
   doc_url: http://punx.readthedocs.io
